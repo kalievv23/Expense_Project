@@ -26,4 +26,10 @@ export default App;
 
 // DEPLOY PROJECT 
 // COMMIT PROJECT 
+
+// git add . 
+// git commit -m "return koshuldu"
+// git push -u origin main
+
 // CLONE PROJECT 
+

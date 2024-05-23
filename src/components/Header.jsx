@@ -4,7 +4,7 @@ import styled from 'styled-components'
 function Headers(props) {
   return (
     <Hed>
-        <h1>IT-DOOR</h1>
+        <h1>Imamazim</h1>
         <button onClick={props.onShowHandle}>ADD PRODUCTS</button>
     </Hed>
   )
